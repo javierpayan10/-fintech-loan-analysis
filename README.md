@@ -38,6 +38,4 @@ To help fintech stakeholders identify patterns that affect loan approvals and un
 
 ---
 
-## 📦 Project Structure
-
 
